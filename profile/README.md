@@ -11,3 +11,9 @@ Accede a nuestro figma en el siguiente link, en este figma encontrarás la propu
 
 [Figma](https://www.figma.com/design/WMpk8x9wez5mwKhufu3FkG/ROR?node-id=0-1&p=f&t=bEE91ZgH5NkXtht8-0)
 
+## Cotización
+
+Adjuntamos nuestra cotización con los detalles.
+
+https://github.com/s-r-o-r/.github/wiki/Cotizacion
+
