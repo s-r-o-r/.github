@@ -15,5 +15,5 @@ Accede a nuestro figma en el siguiente link, en este figma encontrarás la propu
 
 Adjuntamos nuestra cotización con los detalles.
 
-https://github.com/s-r-o-r/.github/wiki/Cotizacion
+[Cotización](https://github.com/s-r-o-r/.github/wiki/Cotizacion)
 
