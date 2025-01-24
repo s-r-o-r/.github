@@ -1,6 +1,6 @@
 ## Bienvenido a R.O.R Wiki!!
 
-Aqui podras encontrar todo lo referente al proyecto R.O.R.
+Aquí podrás encontrar todo lo referente al proyecto R.O.R.
 
 ## Figma
 
