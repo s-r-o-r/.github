@@ -1,6 +1,8 @@
 ## Bienvenido a R.O.R Wiki!!
 
 Aquí podrás encontrar todo lo referente al proyecto R.O.R.
+![image](https://github.com/user-attachments/assets/b704187d-df57-4f62-b5e3-5ff0b1a064a4)
+
 
 ## Figma
 
