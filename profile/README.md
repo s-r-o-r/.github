@@ -4,6 +4,9 @@ Aquí podrás encontrar todo lo referente al proyecto R.O.R.
 ![image](https://github.com/user-attachments/assets/0381f4ce-66b7-496e-87c9-3498c8346ba3)
 
 
+## Project
+
+[Visita el estado del proyecto](https://github.com/orgs/s-r-o-r/projects/1)
 
 ## Figma
 
