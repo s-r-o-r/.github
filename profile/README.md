@@ -21,3 +21,7 @@ Adjuntamos nuestra cotización con los detalles.
 
 [Cotización](https://github.com/s-r-o-r/.github/wiki/Cotizaci%C3%B3n)
 
+## Acceso al swager
+
+Pendiente de publicar
+
