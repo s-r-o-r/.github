@@ -1,0 +1,22 @@
+name: Notificar cambios en issues
+
+on:
+  issues:
+    types: [edited, opened, closed, reopened, assigned, unassigned, labeled, unlabeled]
+
+jobs:
+  notify-teams:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notificar a Microsoft Teams
+        run: |
+          curl -H 'Content-Type: application/json' \
+          -d '{
+            "@type": "MessageCard",
+            "@context": "http://schema.org/extensions",
+            "summary": "Issue actualizado",
+            "themeColor": "0078D7",
+            "title": "📝 Issue ${{ github.event.action }}: #${{ github.event.issue.number }}",
+            "text": "**[${{ github.event.issue.title }}](${{ github.event.issue.html_url }})**\n\nEstado: `${{ github.event.issue.state }}`\nActualizado por: **${{ github.actor }}**"
+          }' \
+          ${{ secrets.TEAMS_WEBHOOK }}
