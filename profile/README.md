@@ -21,6 +21,12 @@ Adjuntamos nuestra cotización con los detalles.
 
 [Cotización](https://github.com/s-r-o-r/.github/wiki/Cotizaci%C3%B3n)
 
+## Diagrama Entidad Relacion
+
+Adjuntamos el diagrama de la base de datos.
+
+[DER](https://app.diagrams.net/?src=about#G1bGy05JYbWuDBxWWPwLDq9XjEWOZ9X98M#%7B%22pageId%22%3A%22_qHZvu_syIRGxw-mkULn%22%7D)
+
 ## Acceso al swager
 
 Pendiente de publicar
