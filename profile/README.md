@@ -24,6 +24,7 @@ Adjuntamos nuestra cotización con los detalles.
 ## Diagrama Entidad Relacion
 
 Adjuntamos el diagrama de la base de datos.
+(Recuerda solicitar permisos a Servisofts para poder acceder)
 
 [DER](https://app.diagrams.net/?src=about#G1bGy05JYbWuDBxWWPwLDq9XjEWOZ9X98M#%7B%22pageId%22%3A%22_qHZvu_syIRGxw-mkULn%22%7D)
 
