@@ -32,3 +32,11 @@ Adjuntamos el diagrama de la base de datos.
 
 Pendiente de publicar
 
+## Videos
+
+### Typescript
+[![Alt text](https://img.youtube.com/vi/fUgxxhI_bvc/0.jpg)](https://www.youtube.com/watch?v=fUgxxhI_bvc)
+
+
+### React Native
+[![Alt text](https://img.youtube.com/vi/U23lNFm_J70/0.jpg)](https://www.youtube.com/watch?v=U23lNFm_J70)
