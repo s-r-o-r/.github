@@ -33,6 +33,9 @@ Adjuntamos el diagrama de la base de datos.
 Pendiente de publicar
 
 ## Videos
+[Reunion 1]()
+[Reunion 2]()
+[Reunion 3]()
 
 ### Typescript
 [![Alt text](https://img.youtube.com/vi/fUgxxhI_bvc/0.jpg)](https://www.youtube.com/watch?v=fUgxxhI_bvc)
