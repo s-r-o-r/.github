@@ -32,10 +32,15 @@ Adjuntamos el diagrama de la base de datos.
 
 Pendiente de publicar
 
-## Videos
-[Reunion 1]()
-[Reunion 2]()
-[Reunion 3]()
+# Videos
+
+## Reuniones
+
+[Reunion 1](https://drive.servisofts.com/http/videos/ror/2025-03-20%2010-03-08.mp4)
+
+[Reunion 2](https://drive.servisofts.com/http/videos/ror/2025-03-28%2010-48-11.mp4)
+
+[Reunion 3](https://drive.servisofts.com/http/videos/ror/2025-04-01%2009-03-52.mp4)
 
 ### Typescript
 [![Alt text](https://img.youtube.com/vi/fUgxxhI_bvc/0.jpg)](https://www.youtube.com/watch?v=fUgxxhI_bvc)
