@@ -12,6 +12,11 @@ Aquí podrás encontrar todo lo referente al proyecto R.O.R.
 
 Accede a nuestro figma en el siguiente link, en este figma encontrarás la propuesta de los diseños de las interfaces.
 
+## Manual de usuario
+
+
+[Manual de usuario](https://github.com/s-r-o-r/.github/wiki/Control-Tower-‐-Manual-de-uso)
+
 
 [Figma](https://www.figma.com/design/WMpk8x9wez5mwKhufu3FkG/ROR?node-id=15-4)
 
