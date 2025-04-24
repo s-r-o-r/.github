@@ -43,9 +43,9 @@ Pendiente de publicar
 
 [Reunion 1](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-03-20%2010-03-08.mp4)
 
-[Reunion 2](https://drive.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-03-28%2010-48-11.mp4)
+[Reunion 2](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-03-28%2010-48-11.mp4)
 
-[Reunion 3](https://drive.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-01%2009-03-52.mp4)
+[Reunion 3](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-01%2009-03-52.mp4)
 
 [Reunion 4](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-16%2009-10-10.mp4)
 
