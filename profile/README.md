@@ -49,6 +49,9 @@ Pendiente de publicar
 
 [Reunion 4](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-16%2009-10-10.mp4)
 
+[Reunion 5](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-24%2009-04-19.mp4)
+
+
 ### Typescript
 [![Alt text](https://img.youtube.com/vi/fUgxxhI_bvc/0.jpg)](https://www.youtube.com/watch?v=fUgxxhI_bvc)
 
