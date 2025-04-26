@@ -51,6 +51,9 @@ Pendiente de publicar
 
 [Reunion 5](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-24%2009-04-19.mp4)
 
+### HIJOLUSA
+
+[Reunion 1](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-25%2009-02-40.mp4)
 
 ### Typescript
 [![Alt text](https://img.youtube.com/vi/fUgxxhI_bvc/0.jpg)](https://www.youtube.com/watch?v=fUgxxhI_bvc)
