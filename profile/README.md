@@ -58,8 +58,8 @@ Pendiente de publicar
 [Reunion 1](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-25%2009-02-40.mp4)
 
 ### Typescript
-[https://img.youtube.com/vi/fUgxxhI_bvc/0.jpg](https://www.youtube.com/watch?v=fUgxxhI_bvc)
+[![Alt text](https://img.youtube.com/vi/fUgxxhI_bvc/0.jpg)](https://www.youtube.com/watch?v=fUgxxhI_bvc)
 
 
 ### React Native
-[https://img.youtube.com/vi/U23lNFm_J70/0.jpg](https://www.youtube.com/watch?v=U23lNFm_J70)
+[![Alt text](https://img.youtube.com/vi/U23lNFm_J70/0.jpg)](https://www.youtube.com/watch?v=U23lNFm_J70)
