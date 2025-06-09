@@ -59,6 +59,8 @@ Pendiente de publicar
 
 [Reunion 9](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-05-27%2009-59-52%E2%80%AFAM.mov)
 
+[Reunion 10](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-06-06%2009-01-04.mp4)
+
 ### HIJOLUSA
 
 [Reunion 1](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-25%2009-02-40.mp4)
