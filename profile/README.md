@@ -24,7 +24,8 @@ Accede a nuestro figma en el siguiente link, en este figma encontrarás la propu
 
 Adjuntamos nuestra cotización con los detalles.
 
-[Cotización](https://github.com/s-r-o-r/.github/wiki/Cotizaci%C3%B3n)
+[Cotización Control Tower](https://github.com/s-r-o-r/.github/wiki/Cotizaci%C3%B3n)
+[Cotización Comunicacion conductor]([https://github.com/s-r-o-r/.github/wiki/Cotizaci%C3%B3n](https://github.com/s-r-o-r/.github/wiki/Cotizacion-Comunicacion-Conductor))
 
 ## Diagrama Entidad Relacion
 
