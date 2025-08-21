@@ -27,6 +27,7 @@ Adjuntamos nuestra cotización con los detalles.
 [Cotización Control Tower](https://github.com/s-r-o-r/.github/wiki/Cotizaci%C3%B3n)
 
 [Cotización Comunicacion conductor](https://github.com/s-r-o-r/.github/wiki/Cotizacion-Comunicacion-Conductor)
+[Checklist app](https://github.com/s-r-o-r/.github/wiki/Checklist-app)
 
 ## Diagrama Entidad Relacion
 
