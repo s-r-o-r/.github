@@ -77,6 +77,8 @@ Pendiente de publicar
 
 [Reunion 16](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-08-08%2009-04-06.mp4)
 
+[Reunion 17](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-08-21%2009-06-14.mp4)
+
 ### HIJOLUSA
 
 [Reunion 1](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-25%2009-02-40.mp4)
