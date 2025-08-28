@@ -30,6 +30,9 @@ Adjuntamos nuestra cotización con los detalles.
 
 [Checklist app](https://github.com/s-r-o-r/.github/wiki/Checklist-app)
 
+[Calculo sostenibilidad](https://github.com/s-r-o-r/.github/wiki/Cotizacion-%E2%80%90-Calculo-sostenibilidad)
+
+
 ## Diagrama Entidad Relacion
 
 Adjuntamos el diagrama de la base de datos.
