@@ -48,39 +48,8 @@ Pendiente de publicar
 
 ## Reuniones
 
-[Reunion 1](https://serp.servisofts.com/http/serp/e854172e-726b-440e-bb0c-083f6eeff44e/Reuniones/2025-03-20%2010-03-08.mp4)
+[Reuniones](https://serp.servisofts.com/key_empresa=6546546546546/drive?path=%2FReuniones%2F)
 
-[Reunion 2](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-03-28%2010-48-11.mp4)
-
-[Reunion 3](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-01%2009-03-52.mp4)
-
-[Reunion 4](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-16%2009-10-10.mp4)
-
-[Reunion 5](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-04-24%2009-04-19.mp4)
-
-[Reunion 6](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-05-06%2009-05-16.mp4)
-
-[Reunion 7](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-05-15%2010-04-57.mp4)
-
-[Reunion 8](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-05-22%2009-02-29.mp4)
-
-[Reunion 9](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-05-27%2009-59-52%E2%80%AFAM.mov)
-
-[Reunion 10](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-06-06%2009-01-04.mp4)
-
-[Reunion 11](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-06-10%2008-17-30.mp4)
-
-[Reunion 12](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-06-12%2009-05-11.mp4)
-
-[Reunion 13](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-06-17%2008-38-15.mp4)
-
-[Reunion 14](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-07-11%2009-05-00.mp4)
-
-[Reunion 15](https://fathom.video/calls/355491964?tab=summary)
-
-[Reunion 16](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-08-08%2009-04-06.mp4)
-
-[Reunion 17](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-08-21%2009-06-14.mp4)
 
 ### HIJOLUSA
 
