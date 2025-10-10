@@ -47,8 +47,7 @@ Pendiente de publicar
 # Videos
 
 ## Reuniones
-
-[Reunion 1](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-03-20%2010-03-08.mp4)
+[Reunion 1](https://serp.servisofts.com/http/serp/e854172e-726b-440e-bb0c-083f6eeff44e/Reuniones//2025-03-20%2010-03-08.mp4)
 
 [Reunion 2](https://serp.servisofts.com/drive?path=%2Fvideos%2Fror%2F2025-03-28%2010-48-11.mp4)
 
